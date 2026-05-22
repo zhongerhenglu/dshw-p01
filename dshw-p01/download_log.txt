@@ -1,0 +1,263 @@
+[2026-05-22] FAILED 股票 600036  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601398  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600660  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600104  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600900  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601088  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600941  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601728  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601006  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600036  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600036  HTTPSConnectionPool(host='push2his.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/kline/get?fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf116&ut=7eea3edcaed734bea9cbfc24409ed989&klt=101&fqt=2&secid=1.600036&beg=20200101&end=20260522 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+[2026-05-22] FAILED 股票 601398  HTTPSConnectionPool(host='push2his.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/kline/get?fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf116&ut=7eea3edcaed734bea9cbfc24409ed989&klt=101&fqt=2&secid=1.601398&beg=20200101&end=20260522 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+[2026-05-22] FAILED 股票 600660  HTTPSConnectionPool(host='push2his.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/kline/get?fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf116&ut=7eea3edcaed734bea9cbfc24409ed989&klt=101&fqt=2&secid=1.600660&beg=20200101&end=20260522 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+[2026-05-22] FAILED 股票 600104  HTTPSConnectionPool(host='push2his.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/kline/get?fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf116&ut=7eea3edcaed734bea9cbfc24409ed989&klt=101&fqt=2&secid=1.600104&beg=20200101&end=20260522 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+[2026-05-22] FAILED 股票 600900  HTTPSConnectionPool(host='push2his.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/kline/get?fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf116&ut=7eea3edcaed734bea9cbfc24409ed989&klt=101&fqt=2&secid=1.600900&beg=20200101&end=20260522 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+[2026-05-22] FAILED 股票 601088  HTTPSConnectionPool(host='push2his.eastmoney.com', port=443): Max retries exceeded with url: /api/qt/stock/kline/get?fields1=f1%2Cf2%2Cf3%2Cf4%2Cf5%2Cf6&fields2=f51%2Cf52%2Cf53%2Cf54%2Cf55%2Cf56%2Cf57%2Cf58%2Cf59%2Cf60%2Cf61%2Cf116&ut=7eea3edcaed734bea9cbfc24409ed989&klt=101&fqt=2&secid=1.601088&beg=20200101&end=20260522 (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+[2026-05-22] FAILED 股票 600941  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600036  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601398  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600660  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600104  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600900  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601088  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 600941  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601728  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 601006  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] FAILED 股票 002352  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-05-22] SUCCESS 股票 600036 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 601398 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 600660 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 600104 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 600900 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 601088 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 600941 shape=(1057, 9) 
+[2026-05-22] SUCCESS 股票 601728 shape=(1147, 9) 
+[2026-05-22] SUCCESS 股票 601006 shape=(1544, 9) 
+[2026-05-22] SUCCESS 股票 002352 shape=(1544, 9) 
+[2026-05-22] FAILED 指数 000300  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 指数 000905  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] SUCCESS 宏观_CPI shape=(477, 5) 
+[2026-05-22] SUCCESS 宏观_M2 shape=(395, 5) 
+[2026-05-22] FAILED 财务_600036  '报告期'
+[2026-05-22] FAILED 财务_601398  '报告期'
+[2026-05-22] FAILED 财务_600660  '报告期'
+[2026-05-22] FAILED 财务_600104  '报告期'
+[2026-05-22] FAILED 财务_600900  '报告期'
+[2026-05-22] FAILED 财务_601088  '报告期'
+[2026-05-22] FAILED 财务_600941  '报告期'
+[2026-05-22] FAILED 财务_601728  '报告期'
+[2026-05-22] FAILED 财务_601006  '报告期'
+[2026-05-22] FAILED 财务_002352  '报告期'
+[2026-05-22] FAILED 财务_600036  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601398  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600660  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600104  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600900  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601088  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600941  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601728  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601006  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_002352  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] SUCCESS 指数 000300 shape=(1544, 8) 
+[2026-05-22] SUCCESS 指数 000905 shape=(1544, 8) 
+[2026-05-22] SUCCESS 宏观_CPI shape=(477, 5) 
+[2026-05-22] SUCCESS 宏观_M2 shape=(395, 5) 
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_600036 shape=(10, 4) 
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_601398 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_600660 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_600104 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_600900 shape=(10, 4) 
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_601088 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_600941 shape=(10, 4) 
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_601728 shape=(10, 4) 
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_601006 shape=(10, 4) 
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (FALLBACK) 财务_002352 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_600036 shape=(10, 4) 
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_601398 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_600660 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_600104 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_600900 shape=(10, 4) 
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_601088 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] SUCCESS (REAL INDUSTRY BENCH) 财务_600941 shape=(10, 4) 
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_ths'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601398  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600660  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600104  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600900  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601088  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600941  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601728  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_601006  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_002352  module 'akshare' has no attribute 'stock_financial_analysis_em'
+[2026-05-22] FAILED 财务_600036  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601398  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600660  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600104  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600900  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601088  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600941  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601728  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601006  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_002352  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600036  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601398  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600660  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600104  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600900  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601088  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600941  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601728  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601006  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_002352  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600036  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601398  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600660  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600104  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600900  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601088  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600941  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601728  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_601006  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_002352  module 'baostock' has no attribute 'query_financial_indicator_data'
+[2026-05-22] FAILED 财务_600036  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_601398  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_600660  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_600104  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_600900  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_601088  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_600941  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_601728  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_601006  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] FAILED 财务_002352  module 'baostock' has no attribute 'query_financial_data'
+[2026-05-22] SUCCESS 财务_600036 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601398 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600660 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600104 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600900 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601088 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600941 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601728 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601006 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_002352 shape=(10, 4) 
+[2026-05-22] FAILED 股票 600036  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 601398  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 600660  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 600104  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 600900  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 601088  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 600941  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 601728  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 601006  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] FAILED 股票 002352  Length mismatch: Expected axis has 0 elements, new values have 7 elements
+[2026-05-22] SUCCESS 指数 000300 shape=(1544, 8) 
+[2026-05-22] SUCCESS 指数 000905 shape=(1544, 8) 
+[2026-05-22] SUCCESS 宏观_CPI shape=(477, 5) 
+[2026-05-22] SUCCESS 宏观_M2 shape=(395, 5) 
+[2026-05-22] SUCCESS 财务_600036 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601398 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600660 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600104 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600900 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601088 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_600941 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601728 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_601006 shape=(10, 4) 
+[2026-05-22] SUCCESS 财务_002352 shape=(10, 4) 
